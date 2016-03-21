@@ -52,7 +52,6 @@ a img, .wrap_trivia img, #extras .box, .button-wrapper input, .wrap-options li .
 .photosgallery-std .sliderkit-nav .sliderkit-go-next a{ background: url("../img/arrow-left.png") no-repeat scroll center 0; display: block; height: 36px; margin: 0 29px 0 0; width: 28px; }
 #wrapper-3-inner{ background: #ffffff; width: 980px; padding: 0px;}
 #main{ width: 642px; padding-bottom: 0; }
-khaled
 #main .box.floatingtakeover > h1{ color: #7f7f7f; font: 36px mytestmedium; }
 .tabs{ padding: 0 !important; margin: 0 0 15px; background: #ececed; }
 .tabs li{ background: url(../img/tabs-separate.jpg) left center no-repeat; margin: 0 -2px 0 0; }
