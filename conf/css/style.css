@@ -1,0 +1,36 @@
+@font-face{font-family:"MyTestMedium";src:url('../fonts/TanseekModernProArabic1.eot');src:url('../fonts/TanseekModernProArabic1.eot?#iefix') format('embedded-opentype'),
+url('../fonts/TanseekModernProArabic2.woff') format('woff'),
+url('../fonts/TanseekModernProArabic3.ttf') format('truetype');font-weight:normal;font-style:normal;}
+
+@font-face{font-family:"MyTestBold";src:url('../fonts/TanseekModernProArabic-Bold1.eot');src:url('../fonts/TanseekModernProArabic-Bold1.eot?#iefix') format('embedded-opentype'),
+url('../fonts/TanseekModernProArabic-Bold2.woff') format('woff'),
+url('../fonts/TanseekModernProArabic-Bold3.ttf') format('truetype');font-weight:normal;font-style:normal;}
+
+@font-face {
+    font-family:'Droid Arabic Kufi Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/DroidKufi-Regular-eot.eot);
+    src: url(../fonts/DroidKufi-Regular-eot.eot?#iefix) format('embedded-opentype'), url(../fonts/DroidKufi-Regular-woff2.woff2) format('woff2'), url(../fonts/DroidKufi-Regular-woff2.woff) format('woff'), url(../fonts/DroidKufi-Regular-ttf.ttf) format('truetype');
+}
+@font-face {
+    font-family:'Droid Arabic Kufi Bold';
+    font-style: normal;
+    font-weight: 700;
+    src: url(../fonts/DroidKufi-Bold-eot.eot);
+    src: url(../fonts/DroidKufi-Bold-eot.eot?#iefix) format('embedded-opentype'), url(../fonts/DroidKufi-Bold-woff2.woff2) format('woff2'), url(../fonts/DroidKufi-Bold-woff.woff) format('woff'), url(../fonts/DroidKufi-Bold-ttf.ttf) format('truetype');
+}
+@font-face {
+    font-family:'Droid Arabic Naskh Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/DroidNaskh-Regular-eot.eot);
+    src: url(../fonts/DroidNaskh-Regular-eot.eot?#iefix) format('embedded-opentype'), url(../fonts/DroidNaskh-Regular-woff2.woff2) format('woff2'), url(../fonts/DroidNaskh-Regular-woff.woff) format('woff'), url(../fonts/DroidNaskh-Regular-ttf.ttf) format('truetype');
+}
+@font-face {
+    font-family:'Droid Arabic Naskh Bold';
+    font-style: normal;
+    font-weight: 400;
+    src: url(../fonts/DroidNaskh-Bold-eot.eot);
+    src: url(../fonts/DroidNaskh-Bold-eot.eot?#iefix) format('embedded-opentype'), url(../fonts/DroidNaskh-Bold-woff2.woff2) format('woff2'), url(../fonts/DroidNaskh-Bold-woff.woff) format('woff'), url(../fonts/DroidNaskh-Bold-ttf.ttf) format('truetype');
+}
