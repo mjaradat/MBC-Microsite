@@ -203,7 +203,7 @@ html[data-useragent*='MSIE 10.0'] .articles .box .arena{ width: 625px; }
 .channel-repeat-time{ border-right: 0 none; width: 145px !important; }
 .program-repeat-time .show-time-arrow .dropdown-arrow{ background: url(../img/arrow-down.png) 0 0 no-repeat; }
 .repeat-time .show-channel-logos{ width: 45px; }
-.wrap_channel_navigation_inner > ul{ height: 50px; margin-right: 220px; width: 737px; }
+.wrap_channel_navigation_inner > ul{ height: 50px; margin-right: 220px;}
 .content-stream.box.content-stream-full-width{ width: 980px; }
 #main .content-stream.box.content-stream-full-width .content{ padding: 0; }
 .content-stream-full-width .tabs{ margin: 0 15px 15px; }
@@ -241,7 +241,8 @@ html[data-useragent*='MSIE 10.0'] .articles .box .arena{ width: 625px; }
 #wrapper-3{ margin-top: 5px !important; }
 #main .wrap_maintt2{ font-family: mytestmedium; font-size: 20px; }
 #main .wrap_maintt2 .content{ padding: 0 15px; }
-.program-listing .SS_right-arrow span, .program-listing .SS_left-arrow span{ top: 27% !important; width: 15px; height: 49px; left: 0 !Important; }
+.program-listing .SS_right-arrow span, .program-listing .SS_left-arrow span{ top: 27% !important; width: 15px; height: 49px; left: 0 !important; }
+.wrap_channel_navigation .wrap_channel_navigation_inner {width: 100%;}
 /** Ask presenter
 #main .askpresenter .content {background: url("../img/askpresenters.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);min-height: 246px;width: 585px;}
 .askpresenter .arena {float: left;margin-top: 30px;width: 411px;}
