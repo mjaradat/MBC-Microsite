@@ -242,8 +242,10 @@ html[data-useragent*='MSIE 10.0'] .articles .box .arena{ width: 625px; }
 #main .wrap_maintt2{ font-family: mytestmedium; font-size: 20px; }
 #main .wrap_maintt2 .content{ padding: 0 15px; }
 .program-listing .SS_right-arrow span, .program-listing .SS_left-arrow span{ top: 27% !important; width: 15px; height: 49px; left: 0 !Important; }
-
-
+/** Ask presenter
+#main .askpresenter .content {background: url("../img/askpresenters.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);min-height: 246px;width: 585px;}
+.askpresenter .arena {float: left;margin-top: 30px;width: 411px;}
+**/
 /** Styles Changes **/
 body {background-color: #DEBF7C;}
 #wrapper {background: url(../img/wings.jpg?nocach=no) center center no-repeat transparent;}
