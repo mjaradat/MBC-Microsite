@@ -267,4 +267,5 @@ body {background-color: #DEBF7C;}
 .sliderkit-selected, .st1:hover{ background-color: #ffffff;}
 .photosgallery-std .sliderkit-nav-clip ul li p{ color: #ffffff; }
 .photosgallery-std .sliderkit-nav-clip ul li.sliderkit-selected p, .photosgallery-std .sliderkit-nav-clip ul li:hover p{ color: #000000; }
+.over-text b a, .over-text b a span{ color: #bcdb83; }
 .over-text b a:hover, .over-text b a:hover span{ color: #BFBBB8; }
