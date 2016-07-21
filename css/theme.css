@@ -156,7 +156,7 @@ a img, .wrap_trivia img, #extras .box, .button-wrapper input, .wrap-options li .
 #extras .social-feed iframe{ width: 313px !important; height: 70px !important; }
 #extras .hashtagbox P{ margin-bottom: 0; }
 #wrapper #wrapper-3-inner #extras .social_sml .content .arena div{ width: 303px !important; padding-top: 1px; }
-#main .wrap_mainttl, #main .wrap_maintt2{ padding-top: 15px; }
+#main .wrap_mainttl, #main .wrap_maintt2{ padding-top: 0; }
 #main .box.wrap_maintt4 #button > a.button0, #extras .box.wrap_maintt4 #button > a.button0{ top: 8px; background: url("/dms/creative/channels/mbc-1-2013/img/arrow-left-related-box.png") no-repeat scroll center top transparent !important; }
 .alboum-page #alboum-list{ margin: 0 auto; width: 950px; }
 #main .askpresenter h3{ font: 40px/60px mytestmedium; color: #1d1d1d; }
