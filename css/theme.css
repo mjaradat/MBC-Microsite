@@ -246,7 +246,7 @@ html[data-useragent*='MSIE 10.0'] .articles .box .arena{ width: 625px; }
 .box.poll_sml .results dd span {color: #dfdfda;text-shadow: 1px 1px 1px rgba(43, 43, 43, 1);}
 #extras {float: left;margin-left: 20px;}
 #section #extras .agt-live-killer.killerbanner {padding: 10px 0 0;}
-#extras .box.social_sml {padding: 0 10px;}
+#extras .box.social_sml {padding: 0;}
 #wrapper {background: url(../img/wings.jpg?nocach=no) center center no-repeat transparent;}
 /** Ask presenter
 #main .askpresenter .content {background: url("../img/askpresenters.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);min-height: 246px;width: 585px;}
