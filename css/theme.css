@@ -213,7 +213,7 @@ html[data-useragent*='MSIE 10.0'] .articles .box .arena{ width: 625px; }
 .content-stream-full-width .content .txt, .articles .content-stream-full-width .content .txt{ width: 95%; }
 .content-stream-full-width .content .loadmore{ margin-right: 8px; width: 950px; }
 .box.kill-banner.win-killer{ height: 326px; width: 300px; }
-#section-header{ height: 59px; width: 980px; position: relative; right: -7px; }
+#section-header{ height: 59px; width: 980px; position: relative; right: 0; }
 .program-timing{ background: #2F2F2F none repeat scroll 0 0; height: 40px; padding: 10px 10px 0 0; top: 40px; }
 .show-channel-logos{ border-left: 0 none; height: 40px; min-width: auto; width: auto; }
 .show-channel-logos.channel2{ border-right: 1px solid #191d25; margin-right: 9px; padding-right: 6px; }
