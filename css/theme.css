@@ -175,7 +175,7 @@ a img, .wrap_trivia img, #extras .box, .button-wrapper input, .wrap-options li .
 .article_extras .multimedia_details p span{ font-family: arial; font-size: 15px; }
 .article_extras .toc li, .article_extras .multimedia_details li{ font-family: arial; font-size: 15px; font-weight: normal; margin: 0; padding-right: 0; }
 .article_extras .toc ul, .article_extras .multimedia_details ul{ padding-right: 0; }
-#wrapper-2, #wrapper-3, .take-over{ webkit-user-select: none; moz-user-select: none; ms-user-select: none; o-user-select: none; user-select: none; }
+#wrapper-2, #wrapper-3, .take-over{ -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; -o-user-select: none; user-select: none; }
 .gig-simpleShareUI + IFRAME{ height: 80px !important; }
 .quote p{ font-family: arial; font-size: 15px; font-weight: normal; }
 .articles .box.wrap_article div div.table-wrapper{ float: right; width: 100%; }
